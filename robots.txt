@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gastesog.github.io/sitemap/sitemap.txt
